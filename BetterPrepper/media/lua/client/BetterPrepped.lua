@@ -5,31 +5,31 @@ local function initBetterPreppedTrait()
 end
 
 local function initBetterPreppedItems(player, square)
-	bandageamount = 8
-	nailamount = 12
+	bandageAmount = 8
+	nailAmount = 12
 	if player:HasTrait("BetterPrepped") then
 	        local BetterPrepped = player:getInventory():AddItem("Base.Bag_ALICEpack_Army");
 	        BetterPrepped:getItemContainer():AddItem("Base.WaterBottleFull");
-			for i = 1,nailamount,1
+			BetterPrepped:getItemContainer():AddItem("Base.Hammer");
+			for i = 1,nailAmount,1
 			do
 				BetterPrepped:getItemContainer():AddItem("Base.Nails");
 			end
 			BetterPrepped:getItemContainer():AddItem("Base.Screwdriver");
 			BetterPrepped:getItemContainer():AddItem("Base.TinOpener");
 			BetterPrepped:getItemContainer():AddItem("Base.HuntingKnife");
+			BetterPrepped:getItemContainer():AddItem("Base.Scissors");
 			BetterPrepped:getItemContainer():AddItem("Base.HandAxe");
-			BetterPrepped:getItemContainer():AddItem("Base.Hammer");
 			BetterPrepped:getItemContainer():AddItem("Base.BeefJerky");
 			BetterPrepped:getItemContainer():AddItem("Base.BeefJerky");
 
 
 local BetterPrepped = player:getInventory():AddItem("Base.Suitcase");
 			BetterPrepped:getItemContainer():AddItem("Base.AlcoholWipes");			
-			for i = 1,bandageamount,1
+			for i = 1,bandageAmount,1
 			do
 				BetterPrepped:getItemContainer():AddItem("Base.AlcoholBandage");
 			end
-			BetterPrepped:getItemContainer():AddItem("Base.Scissors");
 			BetterPrepped:getItemContainer():AddItem("Base.Cigarettes");
 			BetterPrepped:getItemContainer():AddItem("Base.Lighter");
 			BetterPrepped:getItemContainer():AddItem("Base.Matches");
@@ -38,7 +38,6 @@ local BetterPrepped = player:getInventory():AddItem("Base.Suitcase");
 			BetterPrepped:getItemContainer():AddItem("Base.BathTowel");
 			BetterPrepped:getItemContainer():AddItem("Base.Eraser");
 			BetterPrepped:getItemContainer():AddItem("Base.Pencil");
-			BetterPrepped:getItemContainer():AddItem("Base.Screwdriver");
 			BetterPrepped:getItemContainer():AddItem("Base.AlcoholWipes");
 			BetterPrepped:getItemContainer():AddItem("Base.PonchoGreen");
 

@@ -49,6 +49,7 @@ possiably a one time use water bag that gets destroyed on use
 - [ ] pistol
 - [ ] box of bullets
 - [ ] extra mags
+- [ ] tin opener
 
 
 
