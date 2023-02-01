@@ -44,12 +44,6 @@ local BetterPrepped = player:getInventory():AddItem("Base.Suitcase");
 			BetterPrepped:getItemContainer():AddItem("Base.Gloves_LeatherGlovesBlack");
 			BetterPrepped:getItemContainer():AddItem("Base.DuctTape");
 
-
-
-
-
-
-
 	end
 end
 
