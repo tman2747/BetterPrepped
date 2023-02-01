@@ -1,13 +1,13 @@
 # BetterPrepped
 
-### goals
+### goals of this mod
 
 possibly add a one time use water bag that gets destroyed on use
 
 Add a trait that gives you these items and costs 10 points
 
 
-* inside bag
+## Whats in the bag
   * poncho
   * 8x bandage
   * painkillers
@@ -23,6 +23,7 @@ Add a trait that gives you these items and costs 10 points
   * 12x nails
   * 5x water ration (Remove waterbottle if this is added)
   * splitting axe
+  * Journal
 
 
 
