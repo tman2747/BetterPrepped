@@ -2,9 +2,10 @@
 
 ### goals
 
+possibly add a one time use water bag that gets destroyed on use
+
 Add a trait that gives you these items and costs 10 points
 
-possiably a one time use water bag that gets destroyed on use
 
 * inside bag
   * poncho

@@ -38,10 +38,12 @@ local BetterPrepped = player:getInventory():AddItem("Base.Suitcase");
 			BetterPrepped:getItemContainer():AddItem("Base.BathTowel");
 			BetterPrepped:getItemContainer():AddItem("Base.Eraser");
 			BetterPrepped:getItemContainer():AddItem("Base.Pencil");
+			BetterPrepped:getItemContainer():AddItem("Base.Journal");
 			BetterPrepped:getItemContainer():AddItem("Base.AlcoholWipes");
 			BetterPrepped:getItemContainer():AddItem("Base.PonchoGreen");
 			BetterPrepped:getItemContainer():AddItem("Base.Gloves_LeatherGlovesBlack");
 			BetterPrepped:getItemContainer():AddItem("Base.DuctTape");
+
 
 
 
