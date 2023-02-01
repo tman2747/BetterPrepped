@@ -6,7 +6,7 @@
 
 ## What's in the Bag
 
-Alice pack
+**Alice pack**
 - Water bottle
 - Hammer
 - Nails (12x)
@@ -17,7 +17,7 @@ Alice pack
 - Hand axe
 - Beef jerky
 
-Suitcase
+**Suitcase**
 - Alcohol wipes
 - Sterile bandages
 - Cigarettes
