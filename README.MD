@@ -2,9 +2,8 @@
 
 ### Goals of this Mod
 
-Possibly add a one-time use water bag that gets destroyed on use.
+* Add a trait that gives you these items and costs 10 points.
 
-Add a trait that gives you these items and costs 10 points.
 
 ## What's in the Bag
   * Poncho
@@ -24,6 +23,8 @@ Add a trait that gives you these items and costs 10 points.
   * Splitting axe
   * Journal
 
+## Future ideas
+* Possibly add a one-time use water bag that gets destroyed on use. (Water ration)
 
 
 
@@ -71,7 +72,7 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Code
 
-`code`
+`this is a code block`
 
 ### Horizontal Rule
 
