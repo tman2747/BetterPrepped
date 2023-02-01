@@ -1,7 +1,7 @@
 require('NPCs/MainCreationMethods');
 
 local function initBetterPreppedTrait()	
-	local BetterPrepped = TraitFactory.addTrait("BetterPrepped", getText("UI_trait_BetterPrepped"), 7, getText("UI_trait_BetterPreppeddesc2"), false, false);
+	local BetterPrepped = TraitFactory.addTrait("BetterPrepped", getText("UI_trait_BetterPrepped"), 10, getText("UI_trait_BetterPreppeddesc2"), false, false);
 end
 
 local function initBetterPreppedItems(player, square)

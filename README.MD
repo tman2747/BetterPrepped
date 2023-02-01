@@ -6,9 +6,6 @@ Add a trait that gives you these items and costs 10 points
 
 possiably a one time use water bag that gets destroyed on use
 
-1. 5x water ration
-2. splitting axe
-
 * inside bag
   * poncho
   * 8x bandage
@@ -23,34 +20,8 @@ possiably a one time use water bag that gets destroyed on use
   * hunting knife
   * hammer
   * 12x nails
-
-3. pistol
-4. box of bullets
-5. extra mags
-
-
-
-- [ ] 5x Water Ration
-- [ ] splitting axe
-- [ ] inside bag
-- [ ] poncho
-- [ ] 8x bandage
-- [ ] painkillers
-- [ ] vitamins
-- [ ] eraser
-- [ ] pencil
-- [ ] matches
-- [ ] screwdriver
-- [ ] alcohol wipes
-- [ ] water bottle
-- [ ] hunting knife
-- [ ] hammer
-- [ ] 12x nails
-- [ ] pistol
-- [ ] box of bullets
-- [ ] extra mags
-- [ ] tin opener
-
+  * 5x water ration (Remove waterbottle if this is added)
+  * splitting axe
 
 
 
