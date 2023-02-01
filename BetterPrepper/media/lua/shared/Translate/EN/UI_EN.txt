@@ -1,6 +1,0 @@
-UI_EN = {
-UI_trait_BetterPrepped = "BetterPrepped",
-UI_trait_BetterPreppeddesc2 = "BetterPrepped dis.",
-
-
-}

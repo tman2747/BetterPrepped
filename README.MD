@@ -1,6 +1,6 @@
 # BetterPrepped
 
-## goals
+### goals
 
 Add a trait that gives you these items and costs 10 points
 
@@ -15,18 +15,44 @@ possiably a one time use water bag that gets destroyed on use
   * painkillers
   * vitamans
   * Eraser
-     pencil
-     matches
-     screwdriver
-     alchole wipes
-     waterbottle
-     hunting knife
-     hammer
-     12x nails
+  * pencil
+  * matches
+  * screwdriver
+  * alchole wipes
+  * waterbottle
+  * hunting knife
+  * hammer
+  * 12x nails
 
 3. pistol
 4. box of bullets
 5. extra mags
+
+
+
+- [ ] 5x Water Ration
+- [ ] splitting axe
+- [ ] inside bag
+- [ ] poncho
+- [ ] 8x bandage
+- [ ] painkillers
+- [ ] vitamins
+- [ ] eraser
+- [ ] pencil
+- [ ] matches
+- [ ] screwdriver
+- [ ] alcohol wipes
+- [ ] water bottle
+- [ ] hunting knife
+- [ ] hammer
+- [ ] 12x nails
+- [ ] pistol
+- [ ] box of bullets
+- [ ] extra mags
+
+
+
+
 
 # Markdown Cheat Sheet
 
