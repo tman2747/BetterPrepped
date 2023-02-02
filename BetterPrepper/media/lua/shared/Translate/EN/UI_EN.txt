@@ -1,4 +1,4 @@
 UI_EN = {
-UI_trait_BetterPrepped = "Better Perpared",
+UI_trait_BetterPrepped = "Better Prepared Alice Bag",
 UI_trait_BetterPreppeddesc2 = "This Trait adds starting gear including: Alice pack (Water bottle Hammer Nails (12x) Screwdriver Can opener Hunting knife Scissors Hand axe Beef jerky) Suitcase (Alcohol wipes Sterile bandages Cigarettes Lighter Matches Painkillers Vitamins Bath towel Eraser Pencil Journal Green poncho Leather gloves Duct tape)."
 }
