@@ -5,8 +5,8 @@ local function initBetterPreppedTrait()
 end
 
 local function initBetterPreppedItems(player, square)
-	bandageAmount = 8
 	nailAmount = 12
+	bandageAmount = 8
 	if player:HasTrait("BetterPrepped") then
 	        local BetterPrepped = player:getInventory():AddItem("Base.Bag_ALICEpack_Army");
 	        BetterPrepped:getItemContainer():AddItem("Base.WaterBottleFull");
