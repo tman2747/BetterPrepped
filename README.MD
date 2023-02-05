@@ -6,6 +6,8 @@
 
 ## What's in the Bag
 
+## Better prepared Alice
+
 **Alice pack**
 - Water bottle
 - Hammer
@@ -33,6 +35,8 @@
 - Leather gloves
 - Duct tape
 
+## Better prepared Mechanic
+**Tool Box**
 
 ## Future ideas
 * Possibly add a one-time use water bag that gets destroyed on use. (Water ration)
